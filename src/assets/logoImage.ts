@@ -1,0 +1,1 @@
+export const shifuLogoBase64 = `data:image/png;base64,${btoa('[The provided red panda TV screen image data]')}`;
